@@ -501,7 +501,12 @@ git clone https://github.com/YOUR_USERNAME/digital-temperature-display-system.gi
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-**Made with ❤️ by @Ayushigarg03 · Badal Verma · Bhawna Sen · @	garvitajain75 · @Govindjangid75**
+**Made with ❤️ by  
+[@Ayushigarg03](https://github.com/Ayushigarg03) · 
+[@BadalVerma](https://github.com/BadalVerma) · 
+[@BhawnaSen](https://github.com/BhawnaSen) · 
+[@garvitajain75](https://github.com/garvitajain75) · 
+[@Govindjangid75](https://github.com/Govindjangid75)**
 
 *Dept. of CSE | Arya College of Engineering & I.T., Jaipur | Session 2025–26*
 
