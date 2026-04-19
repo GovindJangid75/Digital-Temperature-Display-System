@@ -503,8 +503,8 @@ git clone https://github.com/YOUR_USERNAME/digital-temperature-display-system.gi
 
 **Made with ❤️ by  
 [@Ayushigarg03](https://github.com/Ayushigarg03) · 
-[@BadalVerma](https://github.com/BadalVerma) · 
-[@BhawnaSen](https://github.com/BhawnaSen) · 
+[@BadalVerma](https://github.com/) · 
+[@BhawnaSen](https://github.com/) · 
 [@garvitajain75](https://github.com/garvitajain75) · 
 [@Govindjangid75](https://github.com/Govindjangid75)**
 
