@@ -513,3 +513,26 @@ git clone https://github.com/YOUR_USERNAME/digital-temperature-display-system.gi
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=digital-temp-display-system)
 
 </div>
+
+
+---
+
+## Changelog
+
+| Version | Date | Changes |
+|---------|------|--------|
+| 1.1.0 | April 2026 | Updated README with improved documentation and changelog section |
+| 1.0.0 | 2025 | Initial release with DS18B20 sensor integration, I2C LCD display, and real-time temperature monitoring |
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<p align="center">
+  <strong>Don't forget to ⭐ this repo if you found it helpful!</strong>
+</p>
+
