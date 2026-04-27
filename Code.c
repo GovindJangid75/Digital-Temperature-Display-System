@@ -134,3 +134,14 @@ void showError() {
   Serial.println("[ERROR] Sensor not detected!");
 }
 ```
+
+/*
+ * FUTURE ENHANCEMENTS:
+ * - Add WiFi connectivity for remote temperature monitoring
+ * - Implement data logging to SD card
+ * - Add multiple sensor support for different locations
+ * - Create a mobile app interface via Bluetooth
+ * - Add historical data graphing on LCD
+ */
+
+// Last Updated: April 27, 2026
